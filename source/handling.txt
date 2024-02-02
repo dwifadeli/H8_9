@@ -1,0 +1,34 @@
+Nama : Fadeli
+Ruang : 212
+Skema : System Engineer
+
+Desimal untuk F = 70
+Biner untuk F = 1000110
+Okta untuk F = 106
+Hexa untuk F = 46
+--------------------
+Desimal untuk a = 97
+Biner untuk a = 1100001
+Okta untuk a = 141
+Hexa untuk a = 61
+--------------------
+Desimal untuk d = 100
+Biner untuk d = 1100100
+Okta untuk d = 144
+Hexa untuk d = 64
+--------------------
+Desimal untuk e = 101
+Biner untuk e = 1100101
+Okta untuk e = 145
+Hexa untuk e = 65
+--------------------
+Desimal untuk l = 108
+Biner untuk l = 1101100
+Okta untuk l = 154
+Hexa untuk l = 6C
+--------------------
+Desimal untuk i = 105
+Biner untuk i = 1101001
+Okta untuk i = 151
+Hexa untuk i = 69
+--------------------
